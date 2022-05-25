@@ -19,8 +19,7 @@
 <section>
     <img src="images/repairStart.jpg" id="start" alt="">
     <h2 id="text">Horns & Hooves</h2>
-<%--    <img src="fireflies forest.jpg" id="fireforest">
-    <img src="night lake.jpg" id="nilake">--%>
+    <img src="images/person_edit.png" id="person" alt="">
 
 </section>
 </body>
