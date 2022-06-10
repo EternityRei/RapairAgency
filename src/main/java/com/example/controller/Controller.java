@@ -1,4 +1,4 @@
-package com.example;
+package com.example.controller;
 
 import com.example.commands.Command;
 import com.example.commands.CommandContainer;
@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet("/controller")
+@WebServlet("")
 public class Controller extends HttpServlet {
 
     //http://localhist:8080/Test/controller?command=login
